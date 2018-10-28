@@ -28,6 +28,7 @@
 	  ga('create', 'UA-98679113-1', 'auto');
 	  ga('send', 'pageview');
 	</script>
+	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 </head> 
 
@@ -134,6 +135,10 @@
 
 						    </div>
 					    </section><!--//experience-section-->
+				    		<section class="resume-section experience-section mb-5">
+				    			<h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Get Connected</h2>
+				    			<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="vishesh-ahuja"><a class="LI-simple-link" href='https://in.linkedin.com/in/vishesh-ahuja?trk=profile-badge'>Vishesh Ahuja</a></div>
+				    		</section>
 				    </div>
 				    <div class="col-lg-3">
 				    	<section class="resume-section education-section mb-5">
