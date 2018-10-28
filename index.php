@@ -1,177 +1,228 @@
 <!DOCTYPE html>
-<html lang="en">
-  
-<!-- Mirrored from kamsolutions.pl/projects/resume/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 May 2017 11:20:53 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<html lang="en"> 
 <head>
+    <title>Vishesh Ahuja</title>
+    
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta content="Vishesh is a Software Engineer who loves to write PHP, JavaScript, SQL and HTML. He works at Shopclues.com and is an alumni of Delhi College of Engineering" name="description">
-    <meta content="Vishesh, Ahuja, Vishesh Ahuja, software, engineer, php, html, javascript, web development, code, Shopclues, DTU, DCE, Delhi College of Engineering, Delhi Technological University" name="keywords">
-    <title>I'm Vishesh Ahuja</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-    <![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Vishesh is currently working as a Senior Software Engineer at Naukri.com. He knows how to talk in Java, PHP and Python. He is an alumni of Delhi College of Engineering.">
+    <meta content="Vishesh, Ahuja, Vishesh Ahuja, software, engineer, php, html, java, python, C, C++, javascript, web development, code, Naukri.com, Infoedge India, India, Infoedge, Naukri, Shopclues, DTU, DCE, Delhi College of Engineering, Delhi Technological University" name="keywords">
+    <meta name="author" content="Vishesh Ahuja">    
+    <link rel="shortcut icon" href="favicon.ico"> 
+    
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+    
+    <!-- FontAwesome JS-->
+    <script defer src="https://use.fontawesome.com/releases/v5.1.1/js/all.js" integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a" crossorigin="anonymous"></script>
+       
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/pillar-1.css">
     <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-98679113-1', 'auto');
-  ga('send', 'pageview');
+	  ga('create', 'UA-98679113-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
 
-</script>
-  </head>
-  <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <div id="photo-header" class="text-center">
-            <!-- PHOTO (AVATAR) -->
-            <div id="photo">
-              <img src="img/photo.jpg" alt="avatar">
-            </div>
-            <div id="text-header">
-              <h1>Hello,<br> my name is <span>Vishesh Ahuja</span> and I love to code.</h1>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-xs-12 col-sm-7">
-          <!-- ABOUT ME -->
-          <div class="box">
-            <h2>About Me</h2>
-            <p>I am passionate about learning! I believe that one should always move out of the books and study material that the school/college provides and explore the world out of the educational institution. I am a self-motivated person with good communication and inter-personal skills. I graduated from Delhi Technological University (formerly Delhi College of Engineering) in 2016. Currently working as a Software Engineer at Shopclues.com, I am constantly exploring new horizons.</p>
-          </div>
-          <!-- EXPERIENCES -->
-          <div class="box">
-            <h2>Experiences</h2>
-            <div class="job clearfix">
-              <div class="col-xs-3">
-                <div class="where">Shopclues.com</div>
-                <div class="year"> June 2016 - Present</div>
-              </div>
-              <div class="col-xs-9">
-                <div class="profession">Software Engineer</div>
-                <div class="description">Working on projects and feature development of Desktop site, Mobile Site and Admin Panel. PHP, JavaScript, jQuery, AJAX and SQL are used extensively. In my free time I try to develop awesome tools that can be used by me and my team.</div>
-              </div>
-            </div>
-            <div class="job clearfix">
-              <div class="col-xs-3">
-                <div class="where">Axsiom</div>
-                <div class="year">December 2014 - March 2015</div>
-              </div>
-              <div class="col-xs-9">
-                <div class="profession">Web Developer Intern</div>
-                <div class="description">Developed web based tools that were used by the marketing and analytics team extensively to reduce manual tasks. Developed web bots using PHP and SQL which were capable of crawling websites, filling contact forms and retrieving contact information.</div>
-              </div>
-            </div>
-            <div class="job clearfix">
-              <div class="col-xs-3">
-                <div class="where">Genpact</div>
-                <div class="year">June 2014 - July 2014</div>
-              </div>
-              <div class="col-xs-9">
-                <div class="profession">Information Security Intern</div>
-                <div class="description">Assessed applications for software and procedural vulnerabilities to protect them from external threats. Followed OWASP guide and suggested secure coding guidlines to be followed in the organisation.</div>
-              </div>
-            </div>
-          </div>
-          <!-- EDUCATION -->
-          <div class="box">
-            <h2>Education</h2>
-            <ul id="education" class="clearfix">
-              <li>
-                <div class="year pull-left">2016</div>
-                <div class="description pull-right">
-                  <h3>Graduated from Delhi Technological University</h3>
-                  <p>B.Tech Electronics and Communication from Delhi Technological University (formerly Delhi College of Engineering).</p>
-                </div>
-              </li>
-              <li>
-                <div class="year pull-left">2012</div>
-                <div class="description pull-right">
-                  <h3>High School</h3>
-                  <p>Passed out of Venkateshwar International School, Dwarka. Received an acknowledgement letter from Central Board of Secondary Education (CBSE) for the virtue of performance within top 1% of the Senior School Certificate held during the academic session ending March/April 2012.</p>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-5">
-          <!-- CONTACT -->
-          <div class="box clearfix">
-            <h2>Contact</h2>
-            <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-envelope fa-fw"></span></div>
-              <div class="title only pull-right">visheshahuja@gmail.com</div>
-            </div>
-            <a href="https://www.facebook.com/vishesh.ahuja" target="_blank"><div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-facebook fa-fw"></span></div>
-              <div class="title pull-right">Facebook</div>
-              <div class="description pull-right">https://www.facebook.com/vishesh.ahuja</div>
-            </div></a>
-            <a href="https://www.linkedin.com/in/vishesh-ahuja-3b17a183" target="_blank"><div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-linkedin fa-fw"></span></div>
-              <div class="title pull-right">Linkedin</div>
-              <div class="description pull-right">Vishesh Ahuja</div>
-            </div></a>
-            <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-skype fa-fw"></span></div>
-              <div class="title pull-right">Skype</div>
-              <div class="description pull-right">vishesh_ahuja</div>
-            </div>
-          </div>
-          <!-- SKILLS -->
-          <div class="box">
-            <h2>Skills</h2>
-            <div class="skills">
-              <div class="item-skills" data-percent="0.90">PHP</div>
-              <div class="item-skills" data-percent="0.85">SQL</div>
-              <div class="item-skills" data-percent="0.80">Javascript/jQuery</div>
-              <div class="item-skills" data-percent="0.75">C/C++</div>
-              <div class="item-skills" data-percent="0.60">MVC (framework)</div>
-              <div class="skills-legend clearfix">
-                <div class="legend-left legend">Beginner</div>
-                <div class="legend-left legend"><span>Proficient</span></div>
-                <div class="legend-right legend"><span>Expert</span></div>
-                <div class="legend-right legend">Master</div>
-              </div>
-            </div>
-          </div>
-          <!-- LANGUAGES -->
-          <div class="box">
-            <h2>Other</h2>
-            <div id="language-skills">
-              <div class="skill">PHP <div class="icons pull-right"><div style="width: 95%;" class="icons-red"></div></div></div>
-              <div class="skill">MVC <div class="icons pull-right"><div style="width: 80%;" class="icons-red"></div></div></div>
-              <div class="skill">Restful API <div class="icons pull-right"><div style="width: 75%;" class="icons-red"></div></div></div>
-              <div class="skill">Python <div class="icons pull-right"><div style="width: 50%;" class="icons-red"></div></div></div>
-            </div>
-          </div>
-          <!-- HOBBIES -->
-          <div class="box">
-            <h2>Hobbies</h2>
-            <div class="hobby">Photography</div>
-            <div class="hobby">Gaming</div>
-            <div class="hobby">Programming</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- JQUERY -->
-    <script src="js/jquery.min.js"></script>
-    <!-- BOOTSTRAP -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- SCRIPTS -->
-    <script src="js/scripts.js"></script>
-  </body>
+</head> 
 
-</html>
+<body>	
+
+    <article class="resume-wrapper text-center position-relative">
+	    <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
+		    <header class="resume-header pt-4 pt-md-0">
+			    <div class="media flex-column flex-md-row">
+				    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/profilepicture.jpg" alt="">
+				    <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
+					    <div class="primary-info">
+						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Vishesh Ahuja</h1>
+						    <div class="title mb-3">SSE @Naukri.com | Ex- Shopclues | DCE '16</div>
+						    <ul class="list-unstyled">
+							    <li class="mb-2"><a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>visheshahuja@gmail.com</a></li>
+							    <li class="mb-2"><a href="assets/files/VISHESH_AHUJA.pdf" download="VISHESH_AHUJA.pdf"><i class="fas fa-file-download fa-fw mr-2"></i>Download Resume</a></li>
+						    </ul>
+					    </div><!--//primary-info-->
+					    <div class="secondary-info ml-md-auto mt-2">
+						    <ul class="resume-social list-unstyled">
+				                <li class="mb-3"><a href="www.linkedin.com/in/vishesh-ahuja" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/vishesh-ahuja</a></li>
+				                <li class="mb-3"><a href="https://www.facebook.com/vishesh.ahuja" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-facebook"></i></span>facebook.com/vishesh.ahuja</a></li>
+				                <li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fas fa-at"></i></i></span>visheshahuja@gmail.com</a></li>
+						    </ul>
+					    </div><!--//secondary-info-->
+					    
+				    </div><!--//media-body-->
+			    </div><!--//media-->
+		    </header>
+		    <div class="resume-body p-5">
+			    <section class="resume-section summary-section mb-5">
+				    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Career Summary</h2>
+				    <div class="resume-section-content">
+					    <p class="mb-0">Hello, I am Vishesh Ahuja! Welcome to my resume. I am currently working at Naukri.com as a Senior Software Engineer. I know how to talk in PHP, Java and Python. Graduated from Delhi College of Engineering in 2016, I joined Shopclues and worked there for 2 years. I am constantly exploring new learning opportunities since then.</p> 
+					    <p class="mb-0">Please feel free to contact me on my email id mentioned above. Also you may download my full resume from <a href="assets/files/VISHESH_AHUJA.pdf" download="VISHESH_AHUJA.pdf">here</a>. I would love to hear from you! 
+				    </div>
+			    </section><!--//summary-section-->
+			    <div class="row">
+				    <div class="col-lg-9">
+					    <section class="resume-section experience-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Work Experience</h2>
+						    <div class="resume-section-content">
+							    <div class="resume-timeline position-relative">
+								    <article class="resume-timeline-item position-relative pb-5">
+									    
+									    <div class="resume-timeline-item-header mb-2">
+										    <div class="d-flex flex-column flex-md-row">
+										        <h3 class="resume-position-title font-weight-bold mb-1">Senior Software Engineer</h3>
+										        <div class="resume-company-name ml-auto">Naukri.com (Infoedge India)</div>
+										    </div><!--//row-->
+										    <div class="resume-position-time">June 2018 - Present</div>
+									    </div><!--//resume-timeline-item-header-->
+									    <div class="resume-timeline-item-desc">
+										    <p>Part of Jobsearch team in Naukri Gulf division.</p>
+										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Projects:</h4>
+										    <ul>
+											    <li>Increasing Job Discovery by merging various types of Job Recommendations.</li>
+											    <li>Making job recommendations real time from weekly generation for all the users.</li>
+											    <li>Projects related to increasing SEO of Naukrigulf.com.</li>
+											    <li>Better Apply History by tracking recruiter action on your job application.</li>
+											    <li>Docker and Kubernetes setup for Dev, Test and Production environments.</li>
+										    </ul>
+										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+										    <ul class="list-inline">
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Java</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Python</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">PHP</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">SQL</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Mongo DB</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Redis</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">RabbitMQ</span></li>
+										    </ul>
+									    </div><!--//resume-timeline-item-desc-->
+
+								    </article><!--//resume-timeline-item-->
+								    
+								    <article class="resume-timeline-item position-relative pb-5">
+									    
+									    <div class="resume-timeline-item-header mb-2">
+										    <div class="d-flex flex-column flex-md-row">
+										        <h3 class="resume-position-title font-weight-bold mb-1">Software Engineer</h3>
+										        <div class="resume-company-name ml-auto">Shopclues.com</div>
+										    </div><!--//row-->
+										    <div class="resume-position-time">June 2016 - June 2018</div>
+									    </div><!--//resume-timeline-item-header-->
+									    <div class="resume-timeline-item-desc">
+										    <p>Part of Payment Team in Checkout. Integrated multiple payment gateways, reducted Return to Origin (RTO) of Cash on Delivery orders by selectively disabling COD option, handled Shopclues Wallet (Cluesbucks), Gift Certificates and UTRs for transactions. Also, enhanced customer experience on checkout by various projects. </p>
+										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+										    <ul class="list-inline">
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">PHP</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Memcache</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Redis</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Javascript</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">jQuery</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">MySQL</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">MongoDB</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">ReactJS</span></li>
+										    </ul>
+									    </div><!--//resume-timeline-item-desc-->
+
+														    
+							    </div><!--//resume-timeline-->
+
+						    </div>
+					    </section><!--//experience-section-->
+				    </div>
+				    <div class="col-lg-3">
+				    	<section class="resume-section education-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Education</h2>
+						    <div class="resume-section-content">
+							    <ul class="list-unstyled">
+								    <li class="mb-2">
+								        <div class="resume-degree font-weight-bold">B.Tech. in Electronics and Communication</div>
+								        <div class="resume-degree-org">Delhi College of Engineering</div>
+								        <div class="resume-degree-time">2012 - 2016</div>
+								    </li>
+							    </ul>
+						    </div>
+					    </section><!--//education-section-->
+					    <section class="resume-section skills-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Skills &amp; Tools</h2>
+						    <div class="resume-section-content">
+						        <div class="resume-skill-item">						        
+						        <div class="resume-skill-item">
+						            <!--<h4 class="resume-skills-cat font-weight-bold">Backend</h4>-->
+							        <ul class="list-unstyled">
+								        <li class="mb-2">
+								            <div class="resume-skill-name">PHP</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">Java</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 86%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">Python</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+							        </ul>
+						        </div><!--//resume-skill-item-->
+						        
+						        <div class="resume-skill-item">
+						            <h4 class="resume-skills-cat font-weight-bold">Others</h4>
+						            <ul class="list-inline">
+							            <li class="list-inline-item"><span class="badge badge-light">Memcache</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Redis</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">SQL</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Mongo DB</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">RabbitMQ </span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Java Spring Boot</span></li>
+						            	<li class="list-inline-item"><span class="badge badge-light">Docker</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Kubernetes</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Javascript/jQuery</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Ajax</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">React</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Jira</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Jenkins</span></li>
+						            </ul>
+						        </div><!--//resume-skill-item-->
+						    </div><!--resume-section-content-->
+					    </section><!--//skills-section-->
+					 
+					    <section class="resume-section reference-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Awards</h2>
+						    <div class="resume-section-content">
+							    <ul class="list-unstyled resume-awards-list">
+								    <li class="mb-2 pl-4 position-relative">
+								        <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
+								        <div class="resume-award-name">Appreciation from CBSE</div>
+								        <div class="resume-award-desc">Received an acknowledgement letter from Central Board of Secondary Education (CBSE) for the virtue of
+performance within top 1% of the Senior School Certificate held during the academic session ending March/April
+2012.</div>
+							    </ul>
+						    </div>
+					    </section><!--//interests-section-->
+					    
+				    </div>
+			    </div><!--//row-->
+		    </div><!--//resume-body-->
+		    
+		    
+	    </div>
+    </article> 
+
+    <footer class="footer text-center pt-2 pb-5">
+                <small class="copyright"><a href="assets/files/VISHESH_AHUJA.pdf" download="VISHESH_AHUJA.pdf">Download Full Resume</a></small>
+    </footer> 
+
+</body>
+</html> 
+
